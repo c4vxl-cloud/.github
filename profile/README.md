@@ -29,6 +29,15 @@ Supported Languages:
 Developers:
 - [c4vxl](https://c4vxl.de/)
 
+Programming Languages used:
+- PHP
+- HTML
+- CSS
+- JavaScript
+- Python (`for encryption`)
+
+_Note: c4vxl cloud was a try of writing a Cloud Application without using **ANY** libraries except for the default php libraries! So all of the code is written by myself!_
+
 Related Links:
 - [c4vxl cloud on GitHub](https://github.com/c4vxl-cloud)
 - [API Documentation](https://github.com/c4vxl-cloud/API-Documentation)
