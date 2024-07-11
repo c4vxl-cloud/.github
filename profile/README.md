@@ -38,6 +38,8 @@ Programming Languages used:
 
 _No libraries used_
 
+---
+
 Related Links:
 - [c4vxl cloud on GitHub](https://github.com/c4vxl-cloud)
 - [API Documentation](https://github.com/c4vxl-cloud/API-Documentation)
