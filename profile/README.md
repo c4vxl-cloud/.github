@@ -36,7 +36,7 @@ Programming Languages used:
 - JavaScript
 - Python (`for encryption`)
 
-_Note: c4vxl cloud was a try of writing a Cloud Application without using **ANY** libraries except for the default php libraries! So all of the code is written by myself!_
+_No libraries used_
 
 Related Links:
 - [c4vxl cloud on GitHub](https://github.com/c4vxl-cloud)
