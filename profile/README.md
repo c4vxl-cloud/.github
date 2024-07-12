@@ -5,7 +5,9 @@ c4vxl cloud is a Project by [c4vxl](https://c4vxl.de/).    [[View Project Page](
 c4vxl cloud is a free to use cloud Platform where you can store your data easily and secure.
 
 Features:
-1. ### FRIEND SYSTEM
+1. ### File System
+   Manage all of your files at one place.
+2. ### FRIEND SYSTEM
    With our intuitive friend system, connecting and collaborating has never been easier. Share files effortlessly with your trusted network of friends directly from our Cloud Platform.
    
 3. ### BACKUP SYSTEM
